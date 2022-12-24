@@ -4,3 +4,6 @@
 [submodule "account-service"]
 	path = account-service
 	url = https://github.com/ImBoriPapa/account-service.git
+[submodule "gateway-service"]
+	path = gateway-service
+	url = https://github.com/ImBoriPapa/gateway-service.git
