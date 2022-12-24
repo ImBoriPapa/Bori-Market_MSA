@@ -1,3 +1,6 @@
 [submodule "discovery-service"]
 	path = discovery-service
 	url = https://github.com/ImBoriPapa/discovery-service.git
+[submodule "account-service"]
+	path = account-service
+	url = https://github.com/ImBoriPapa/account-service.git
